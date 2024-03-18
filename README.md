@@ -49,6 +49,11 @@ If you installed via a package manager, just import the **generateREADME** funct
 const generateREADME = require("dynamic-readme-generator");
 generateREADME();
 ```
+or
+```javascript
+import generateREADME from "dynamic-readme-generator";
+generateREADME();
+```
 
 If you followed the repo approach, run the application using the command 'npm start' in the terminal. Follow the interactive prompts to input your project details. The generator will create a README file based on your responses.
 ![Screenshot](./assets/images/Screenshot.png)
