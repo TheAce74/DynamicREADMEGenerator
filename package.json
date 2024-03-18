@@ -1,6 +1,6 @@
 {
   "name": "dynamic-readme-generator",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "The 'Dynamic README Generator' is a tool designed to simplify the creation of thorough and well-organized README files for software projects. It prompts users for essential information, such as project details, installation instructions, usage guidelines, licensing preferences, and more. The resulting README includes a table of contents for easy navigation, automatically formatted sections, and links to collaborators' GitHub profiles and emails. You can streamline and improve your project documentation by using this efficient README generation tool.",
   "main": "index.js",
   "keywords": [
@@ -27,7 +27,7 @@
     "test": "jest"
   },
   "author": "celia103",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^6.3.1"
   },
