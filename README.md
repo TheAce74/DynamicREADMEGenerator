@@ -23,11 +23,11 @@ The "Dynamic README Generator" is a tool designed to simplify the creation of th
 ### Package
 
 ```bash
-npm i dynamic-readme-generator
+npm i dynamic-readme-generator --save-dev
 ```
 
 ```bash
-yarn add dynamic-readme-generator
+yarn add dynamic-readme-generator --dev
 ```
 
 ### GitHub
